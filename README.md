@@ -1,4 +1,4 @@
-###Proyecto HOLA MUNDO CON PHP.
+HOLA MUNDO CON PHP.
 
 JUAN CUSCUN -juancuscun@galileo.edu- CARNET-24000148 -
 Descripcion:
