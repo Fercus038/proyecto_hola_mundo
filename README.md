@@ -1,5 +1,6 @@
 ###Proyecto HOLA MUNDO CON PHP.
-#####JUAN CUSCUN -juancuscun@galileo.edu- CARNET-24000148 -
+
+JUAN CUSCUN -juancuscun@galileo.edu- CARNET-24000148 -
 Descripcion:
 Se crea un archivo PHP que muestre en pantalla “Hola mundo, soy [nombre del estudiante]” asi mismo incluir una imagen creada por una ingeligencia artificia, en este caso se utiliza Leonardo IA.
 
